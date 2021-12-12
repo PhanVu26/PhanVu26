@@ -8,7 +8,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Information Technology at Danang University of Science and Technology.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Web Development and Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
